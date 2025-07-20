@@ -1,6 +1,5 @@
 # VaultMind
 
-![Gradio-Based User Interface](https://github.com/user-attachments/assets/4bd3b766-7041-499b-87c8-fefcaa3dfd20)
 
 VaultMind is a machine learning-powered tool designed to predict bankruptcy in SMEs using financial data. It combines high accuracy with interpretability through a Gradio-based interface.
 
@@ -12,10 +11,9 @@ This repository provides a bankruptcy prediction tool for Small and Medium Enter
 * **Explainability**: Uses **SHAP (SHapley Additive exPlanations)** to highlight key financial ratios influencing predictions.
 * **Narrative Reports**: Generates human-readable summaries using **Natural Language Generation (NLG)**.
 
-![Bankruptcy Prediction Report](https://github.com/user-attachments/assets/6f0a4eb8-c020-482d-94b6-c0b1ea5908cb)
 
 ## ⚙️ Workflow:
-
+![Workflow Diagram](https://github.com/user-attachments/assets/159e6ccb-d02b-4dd5-a853-2e32072f27c8)
 1. **Data Preparation**:
 
    * Dataset of 427 companies with 66 financial features.
@@ -39,7 +37,7 @@ This repository provides a bankruptcy prediction tool for Small and Medium Enter
    * Utilizes NLG to create detailed, readable reports.
    * Includes predictions, influential features, and financial recommendations.
 
-![Workflow Diagram](https://github.com/user-attachments/assets/159e6ccb-d02b-4dd5-a853-2e32072f27c8)
+
 
 ## 🚀 Getting Started
 
