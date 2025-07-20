@@ -1,4 +1,4 @@
-# Bankruptcy Prediction
+# VaultMind
 
 ![Gradio-Based User Interface](https://github.com/user-attachments/assets/4bd3b766-7041-499b-87c8-fefcaa3dfd20)
 
